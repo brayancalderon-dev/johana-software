@@ -1,7 +1,7 @@
 # 🎓 Johana Software
 
 <p align="center">
-  <img src="screenshots/icono-johana-software.png" alt="Johana Software" width="150">
+ <img src="CalificacionesDesktop/screenshots/icono-johana-software.png" alt="Johana Software" width="150">
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 ## 🖥️ Vista general
 
 <p align="center">
-  <img src="screenshots/menu-principal.png" alt="Menú principal de Johana Software" width="85%">
+  <img src="CalificacionesDesktop/screenshots/menu-principal.png" alt="Menú principal de Johana Software" width="85%">
 </p>
 
 Desde el menú principal puedes ingresar al módulo que necesitas:
@@ -38,15 +38,14 @@ Desde el menú principal puedes ingresar al módulo que necesitas:
 ### 1. Notas de proyectos
 
 <p align="center">
-  <img src="screenshots/modulo-notas-proyectos.png" alt="Módulo de notas de proyectos" width="90%">
-</p>
+<img src="CalificacionesDesktop/screenshots/modulo-notas-proyectos.png" alt="Módulo de notas de proyectos" width="90%"></p>
 
 Permite seleccionar un Excel maestro y agregar varios archivos de materias. La pantalla reúne los archivos cargados y los resultados del análisis para revisar la información antes de aplicar las notas.
 
 ### 2. Notas generales
 
 <p align="center">
-  <img src="screenshots/modulo-notas-generales.png" alt="Módulo de notas generales" width="90%">
+  <img src="CalificacionesDesktop/screenshots/modulo-notas-generales.png" alt="Módulo de notas generales" width="90%">
 </p>
 
 Permite seleccionar el Excel maestro, elegir el trimestre y agregar uno o varios archivos de los docentes. El módulo está orientado a transferir el **TOTAL TRIMESTRE (100%)** por asignatura.
@@ -54,7 +53,7 @@ Permite seleccionar el Excel maestro, elegir el trimestre y agregar uno o varios
 ### 🔎 Revisión de calificaciones
 
 <p align="center">
-  <img src="screenshots/analisis-calificaciones.png" alt="Análisis de calificaciones" width="90%">
+  <img src="CalificacionesDesktop/screenshots/analisis-calificaciones.png" alt="Análisis de calificaciones" width="90%">
 </p>
 
 Antes de aplicar los cambios, puedes analizar los archivos y revisar las coincidencias, las notas detectadas y los resultados del proceso.
